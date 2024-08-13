@@ -12,7 +12,4 @@ hello git! hello atiguigu!
 hello git! hello atiguigu!
 hello git! hello atiguigu!
 
-
-3333333
-2222222
-hot-fix branch test
+测试远程仓库
